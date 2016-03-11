@@ -35,7 +35,7 @@ nb_iter = 400;
 % theta is the coefficients of our hypothesis linear function
 theta = zeros(n, 1);
 [theta, J_values] = gradient_descent(X, y, theta, alpha, nb_iter);
-fprintf('Theta values (gradient descent) :\n');
+fprintf('Theta values :\n');
 fprintf('\t%f\n', theta);
 
 
