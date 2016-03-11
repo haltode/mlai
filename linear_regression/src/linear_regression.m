@@ -6,13 +6,14 @@ clc;
 % Step 1 : load data
 fprintf('Loading data...\n');
 data = load('data.txt');
+data_size = size(data, 2);
 % X = features, y = output, n = number of features, m = number of examples
-X = data(:, 1:2);
-y = data(:, 3);
+X = data(:, 1:data_size - 1);
+y = data(:, data_size);
 n = size(X, 2);
 m = size(X, 1);
 
-fprintf('Loaded %d features with %d examples.\n', size(X, 2), size(X, 1));
+fprintf('Loaded %d features with %d examples.\n', n, m);
 fprintf('Loaded %d output examples.\n', size(y, 1));
 
 fprintf('Pause. Press ENTER to continue...\n');
