@@ -7,6 +7,7 @@ I'm using the [Octave](https://gnu.org/software/octave/) programming language, a
 Here are the current available algorithms :
 
 - Linear regression (with multiple variables)
+- Logistic regression (with regularization)
 
 ## License
 
