@@ -1,13 +1,13 @@
 # Neural Network
 
-## Algorithme
+## Algorithm
 
-Links to Andrew Ng's course about neural networks :
+Links to Andrew Ng's courses about neural networks :
 
 - [Week 4 : Neural Networks: Representation](https://www.coursera.org/learn/machine-learning/home/week/4)
 - [Week 5 : Neural Networks: Learning](https://www.coursera.org/learn/machine-learning/home/week/5)
 
-This implementation is using **forward/backward propogation** with **regularization**.
+This implementation is using **forward/backward propagation** with **regularization**.
 
 ## How to run the code ?
 

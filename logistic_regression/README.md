@@ -17,7 +17,7 @@ $ octave-cli
 
 [...]
 
-octave:1> logistic_regressionA
+octave:1> logistic_regression
 Loading data...
 Loaded 2 features with 118 examples.
 Loaded 118 output examples.
