@@ -2,7 +2,7 @@
 
 ## Algorithm
 
-Links to Andrew Ng's course about logistic regression :
+Link to Andrew Ng's course about logistic regression :
 
 - [Week 3 : Logistic Regression](https://www.coursera.org/learn/machine-learning/home/week/3)
 

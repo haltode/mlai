@@ -4,7 +4,7 @@
 
 Link to Andrew Ng's course about svm :
 
-- [Week 7](https://www.coursera.org/learn/machine-learning/home/week/7)
+- [Week 7 : Support Vector Machines](https://www.coursera.org/learn/machine-learning/home/week/7)
 
 This implementation is using the **gaussian kernel**.
 
@@ -24,8 +24,8 @@ Selecting best SVM parameters...
 
 [...]
 
-C : 0.300000
-sigma : 0.100000
+C = 0.300000
+sigma = 0.100000
 Training SVM (with gaussian kernel)...
 
 [...]
