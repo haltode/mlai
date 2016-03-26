@@ -9,6 +9,7 @@ Here are the current available algorithms :
 - Linear regression (with multiple variables)
 - Logistic regression (with regularization)
 - Neural network (with forward/backward propagation, and regularization)
+- Support vector machines (with gaussian kernel)
 
 ## License
 
